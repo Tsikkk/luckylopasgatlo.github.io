@@ -31,15 +31,16 @@ header{
 #Fh2{
     color: white;
     font-family: 'Fredericka the Great';
+
 }
 #Fmain{
     background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
     width: 652px;
-    height: 450;
+    height: 450px;
 }
 #Fposition{
-    padding-top: 260px;
-    margin-left: 200px;
+    
 }
 .Fp{
     color: white;
@@ -54,11 +55,6 @@ h1{font-family: 'Fredericka the Great', serif;}
     background-size: cover;
     height: 400px;
 }
-h1{
-    font-family: 'Fredericka the Great',cursive;
-    color: #1F5B25;
-    text-align: center;
-}
 .kave{
     color: #1F5B25;
     background-color: #fff;
@@ -68,11 +64,4 @@ h1{
 }
 .kave:hover{
     box-shadow: 0px 0px 5px #1F5B25;
-}
-.kave h2{
-    font-size: 1rem;
-    text-align: center;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-variant: small-caps;
 }
