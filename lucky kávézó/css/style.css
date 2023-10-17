@@ -20,9 +20,10 @@ header{
 }
 
 
-main{
+.fooldal{
     background-image: url(../Képek/főoldal/back.jpg);
 }
+
 
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 h1{font-family: 'Fredericka the Great', serif;}
