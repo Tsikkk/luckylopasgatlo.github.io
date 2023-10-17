@@ -28,6 +28,10 @@ header{
     background-position: center;
     background-size: cover;
 }
+#Fh2{
+    color: white;
+    font-family: 'Fredericka the Great';
+}
 #Fmain{
     background-color: rgba(0, 0, 0, 0.8);
     width: 652px;
@@ -36,6 +40,7 @@ header{
 .Fp{
     color: white;
 }
+
 
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 h1{font-family: 'Fredericka the Great', serif;}
