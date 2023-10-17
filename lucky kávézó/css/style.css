@@ -2,11 +2,13 @@
 nav{
     background-color:rgb(31, 91, 37);
     height: 60px;
-    
+    padding: 15px;
 }
 
 a{
     color: white;
+    text-decoration: none;
+    padding: 5px;
 }
 
 body{
@@ -22,8 +24,18 @@ header{
 
 .fooldal{
     background-image: url(../Képek/főoldal/back.jpg);
+    height: 964px;
+    background-position: center;
+    background-size: cover;
 }
-
+#Fmain{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 652px;
+    height: 450;
+}
+.Fp{
+    color: white;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 h1{font-family: 'Fredericka the Great', serif;}
