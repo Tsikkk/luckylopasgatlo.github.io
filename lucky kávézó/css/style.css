@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 nav{
     background-color:rgb(31, 91, 37);
     height: 60px;
@@ -31,18 +31,22 @@ header{
 #Fh2{
     color: white;
     font-family: 'Fredericka the Great';
+
 }
 #Fmain{
     background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
     width: 652px;
-    height: 450;
+    height: 450px;
+}
+#Fposition{
+    
 }
 .Fp{
     color: white;
 }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 h1{font-family: 'Fredericka the Great', serif;}
 
 .banner{
@@ -50,11 +54,6 @@ h1{font-family: 'Fredericka the Great', serif;}
     background-position: center center;
     background-size: cover;
     height: 400px;
-}
-h1{
-    font-family: 'Fredericka the Great',cursive;
-    color: #1F5B25;
-    text-align: center;
 }
 .kave{
     color: #1F5B25;
@@ -65,6 +64,7 @@ h1{
 }
 .kave:hover{
     box-shadow: 0px 0px 5px #1F5B25;
+<<<<<<< HEAD
 }
 .kave h2{
     font-size: 1rem;
@@ -93,4 +93,6 @@ footer li>img{
 }
 footer form{
     margin-bottom: 30px;
+=======
+>>>>>>> 240d687be9dba50447a196b2bb8a6832a974a92d
 }
