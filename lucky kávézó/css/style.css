@@ -1,10 +1,48 @@
+<<<<<<< HEAD
+=======
+nav{
+    background-color:rgb(31, 91, 37);
+    height: 60px;
+    
+}
+a{
+    color: white;
+}
+>>>>>>> 302f82eacd7551ffba210bd0373a9b91836c17ad
 body{
     margin: 0;
+    background-color: rgb(251, 239, 219);
+
 }
+<<<<<<< HEAD
 header{
     background-image: url();
 }
 
 .FoOldal{
     background-image: url('..kepek/fooldal/back.jpg');
+=======
+main{
+    background-image: url('Képek/főoldal/back.png');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+h1{font-family: 'Fredericka the Great', serif;}
+
+.banner{
+    background-image: url(../Képek/kavenoveny-termesztes.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
+.kave{
+    color: #1F5B25;
+    background-color: #fff;
+    border: 1px solid #1F5B25;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+.kave:hover{
+    box-shadow: 0px 0px 5px #1F5B25;
+>>>>>>> 302f82eacd7551ffba210bd0373a9b91836c17ad
 }
