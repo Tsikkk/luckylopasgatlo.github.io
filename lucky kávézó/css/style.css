@@ -33,6 +33,11 @@ h1{font-family: 'Fredericka the Great', serif;}
     background-size: cover;
     height: 400px;
 }
+h1{
+    font-family: 'Fredericka the Great',cursive;
+    color: #1F5B25;
+    text-align: center;
+}
 .kave{
     color: #1F5B25;
     background-color: #fff;
@@ -42,4 +47,11 @@ h1{font-family: 'Fredericka the Great', serif;}
 }
 .kave:hover{
     box-shadow: 0px 0px 5px #1F5B25;
+}
+.kave h2{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
 }
