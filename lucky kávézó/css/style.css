@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+body:not(#home), .modal-content{
+    background-color: #fbefdb;
+}
 nav{
     background-color:rgb(31, 91, 37);
     height: 60px;
@@ -79,6 +82,9 @@ text-align: center;
 #napiajanlat{
     position: absolute;
     width: 50px;
+}
+.modal-header, .modal-footer{
+    background-color: rgb(209, 190, 154);
 }
 .footer{
     background-color: #1F5B25;
