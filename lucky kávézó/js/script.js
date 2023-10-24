@@ -15,5 +15,5 @@ function hozzaszolas(){
 
     let kommentek=document.getElementById('kommentek')
 
-    kommentek.innerHTML+='<p><span class="badge badge-succes">'+nev+'</span>'+uzenet+'</p>';
+    kommentek.innerHTML+='<p><span class="badge badge-succes komment">'+nev+'</span>'+uzenet+'</p>';
 }
