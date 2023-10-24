@@ -49,7 +49,9 @@ header{
     padding-top: 100px;
 }
 
-h1{font-family: 'Fredericka the Great', serif;}
+h1{font-family: 'Fredericka the Great', serif;
+text-align: center;
+}
 
 .banner{
     background-image: url(../Képek/kavenoveny-termesztes.jpg);
@@ -73,6 +75,10 @@ h1{font-family: 'Fredericka the Great', serif;}
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-variant: small-caps;
+}
+#napiajanlat{
+    position: absolute;
+    width: 50px;
 }
 .footer{
     background-color: #1F5B25;
