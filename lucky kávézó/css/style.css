@@ -109,3 +109,15 @@ footer form{
 p.szerzo{
     text-align: right;
 }
+#nev{
+    width: 200px;
+}
+#szoveg{
+    width: 500px;
+}
+.comment{
+     background-color: #1F5B25; color: black;
+}
+#komm{
+    max-width: 98vw;
+}
