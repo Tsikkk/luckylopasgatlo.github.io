@@ -11,7 +11,7 @@ a{
     padding: 5px;
 }
 
-body{
+body, .modal-body{
     background-color: rgb(251, 239, 219);
 
 }
@@ -109,15 +109,7 @@ footer form{
 p.szerzo{
     text-align: right;
 }
-#nev{
-    width: 200px;
-}
-#szoveg{
-    width: 500px;
-}
-.comment{
-     background-color: #1F5B25; color: black;
-}
-#komm{
-    max-width: 98vw;
+
+.modal-content{
+    background-color: #eadac0;
 }
