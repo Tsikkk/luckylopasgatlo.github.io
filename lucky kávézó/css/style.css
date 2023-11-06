@@ -121,3 +121,6 @@ p.szerzo{
 #komm{
     max-width: 98vw;
 }
+.modal-content{
+    background-color: #eadac0;
+}
