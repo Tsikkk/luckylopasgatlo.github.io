@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
-<<<<<<< HEAD
-=======
+
 body:not(#home), .modal-content{
     background-color: #fbefdb;
 }
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
+
 nav{
     background-color:rgb(31, 91, 37);
     height: 60px;
@@ -55,14 +54,13 @@ header{
     padding-top: 100px;
 }
 
-<<<<<<< HEAD
-h1{font-family: 'Fredericka the Great', serif;}
-=======
+
+
+
 h1{font-family: 'Fredericka the Great', serif;
 text-align: center;
 color: #1F5B25;
 }
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
 
 .banner{
     background-image: url(../Képek/kavenoveny-termesztes.jpg);
@@ -70,36 +68,32 @@ color: #1F5B25;
     background-size: cover;
     height: 400px;
 }
-<<<<<<< HEAD
-.kave{
-=======
+
 .card{
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
+
     color: #1F5B25;
     background-color: #fff;
     border: 1px solid #1F5B25;
     border-radius: 4px;
     margin-bottom: 1rem;
 }
-<<<<<<< HEAD
+
 .kave:hover{
     box-shadow: 0px 0px 5px #1F5B25;
 }
-.kave h2{
-=======
+
 .card:hover{
     box-shadow: 0px 0px 5px #1F5B25;
 }
 .card h5{
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
+
     font-size: 1rem;
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-variant: small-caps;
 }
-<<<<<<< HEAD
-=======
+
 #napiajanlat{
     width: 40px;
     position: absolute;
@@ -109,7 +103,7 @@ color: #1F5B25;
 .modal-header, .modal-footer{
     background-color: rgb(209, 190, 154);
 }
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
+
 .footer{
     background-color: #1F5B25;
 color: #fff;
@@ -136,13 +130,13 @@ footer form{
     border-radius: 4px;
     border: 1px solid #1F5B25;
 }
-<<<<<<< HEAD
+
 p.szerzo{
     text-align: right;
 }
 
-=======
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
+
+
 #nev{
     width: 200px;
 }
@@ -151,8 +145,7 @@ p.szerzo{
 }
 .comment{
      background-color: #1F5B25; color: black;
-<<<<<<< HEAD
-=======
+
 }
 #komm{
     max-width: 98vw;
@@ -178,5 +171,4 @@ p.szerzo {
 
 .box span.badge {
     margin: .25rem;
->>>>>>> cab94a7efd3e9781be6ffad11d347d05978617ad
 }
