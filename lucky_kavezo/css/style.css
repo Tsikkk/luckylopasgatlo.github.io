@@ -25,7 +25,7 @@ header{
 
 
 .fooldal{
-    background-image: url(../Képek/főoldal/back.jpg);
+    background-image: url(../Kepek/főoldal/back.jpg);
     height: 964px;
     background-position: center;
     background-size: cover;
@@ -58,7 +58,7 @@ color: #1F5B25;
 }
 
 .banner{
-    background-image: url(../Képek/kavenoveny-termesztes.jpg);
+    background-image: url(../Kepek/kavenoveny-termesztes.jpg);
     background-position: center center;
     background-size: cover;
     height: 400px;
