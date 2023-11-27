@@ -1,15 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
-<<<<<<< HEAD:lucky kávézó/css/style.css
 
 body:not(#home), .modal-content{
     background-color: #fbefdb;
 }
 
-=======
-body:not(#home), .modal-content{
-    background-color: #fbefdb;
-}
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
 nav{
     background-color:rgb(31, 91, 37);
     height: 60px;
@@ -60,12 +54,7 @@ header{
     padding-top: 100px;
 }
 
-<<<<<<< HEAD:lucky kávézó/css/style.css
 
-
-
-=======
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
 h1{font-family: 'Fredericka the Great', serif;
 text-align: center;
 color: #1F5B25;
@@ -77,45 +66,30 @@ color: #1F5B25;
     background-size: cover;
     height: 400px;
 }
-<<<<<<< HEAD:lucky kávézó/css/style.css
 
 .card{
 
-=======
-.card{
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
     color: #1F5B25;
     background-color: #fff;
     border: 1px solid #1F5B25;
     border-radius: 4px;
     margin-bottom: 1rem;
 }
-<<<<<<< HEAD:lucky kávézó/css/style.css
 
 .kave:hover{
     box-shadow: 0px 0px 5px #1F5B25;
 }
 
-=======
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
 .card:hover{
     box-shadow: 0px 0px 5px #1F5B25;
 }
 .card h5{
-<<<<<<< HEAD:lucky kávézó/css/style.css
-
-=======
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
     font-size: 1rem;
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-variant: small-caps;
 }
-<<<<<<< HEAD:lucky kávézó/css/style.css
-
-=======
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
 #napiajanlat{
     width: 40px;
     position: absolute;
@@ -125,10 +99,6 @@ color: #1F5B25;
 .modal-header, .modal-footer{
     background-color: rgb(209, 190, 154);
 }
-<<<<<<< HEAD:lucky kávézó/css/style.css
-
-=======
->>>>>>> 930ed51622769486b82af04fc206f31e59ee2e5f:lucky_kavezo/css/style.css
 .footer{
     background-color: #1F5B25;
 color: #fff;
